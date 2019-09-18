@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  ProAndCon
+
+  Created by Роман Кабиров on 13.12.2017.
+  Copyright © 2017 Logical Mind. All rights reserved.
+*/
+
+"Pros: " = "За: ";
+", cons: " = ", против: ";
+"Answer: YES" = "Ответ: да";
+"Answer: NO" = "Ответ: нет";
+"Answer: EQUAL" = "Ответ: равнозначно";
+"Importance:" = "Важность:";
+
+"No" = "Нет";
+"Yes" = "Да";
+"Equal" = "И да и нет";
+
+"Delete" = "Удалить";
+"Edit" = "Редактировать";
+
+"Buy coffee" = "Купить кофе";
+"Restore purchase" = "Восстановить покупку";
+"Cancel" = "Отмена";
+
+"Do you want to unlock full version?" = "Разблокировать полную версию?";
+
+"Buy coffee for the developer (once)?" = "Угостить разработчика кофе (один раз)?";
+"Next time" = "Не угощать";
+"Pros and Cons" = "За и Против";

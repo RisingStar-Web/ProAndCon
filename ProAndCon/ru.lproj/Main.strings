@@ -1,0 +1,78 @@
+
+/* Class = "UILabel"; text = "Your question"; ObjectID = "233-eQ-bkF"; */
+"233-eQ-bkF.text" = "Ваш вопрос";
+
+/* Class = "UILabel"; text = "Test decision 1"; ObjectID = "57e-1c-Der"; */
+"57e-1c-Der.text" = "Test decision 1";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu?"; ObjectID = "8aO-8M-kdc"; */
+"8aO-8M-kdc.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu?";
+
+/* Class = "UILabel"; text = "No"; ObjectID = "8zY-v5-ofj"; */
+"8zY-v5-ofj.text" = "Нет";
+
+/* Class = "UILabel"; text = "Today"; ObjectID = "Azf-lt-jtR"; */
+"Azf-lt-jtR.text" = "Сегодня";
+
+/* Class = "UIButton"; normalTitle = "Plus"; ObjectID = "FdL-wK-0gq"; */
+"FdL-wK-0gq.normalTitle" = "За";
+
+/* Class = "UILabel"; text = "Answer: YES"; ObjectID = "GpI-Ve-4h8"; */
+"GpI-Ve-4h8.text" = "Answer: YES";
+
+/* Class = "UILabel"; text = "Your argument"; ObjectID = "HZi-pA-bAK"; */
+"HZi-pA-bAK.text" = "Ваш аргумент";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu?"; ObjectID = "Hga-6c-v9Z"; */
+"Hga-6c-v9Z.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu?";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu?"; ObjectID = "N8t-c8-WfU"; */
+"N8t-c8-WfU.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu?";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "QfO-6x-quI"; */
+"QfO-6x-quI.text" = "3";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "bR6-fX-Dib"; */
+"bR6-fX-Dib.text" = "3";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "btQ-e2-iGd"; */
+"btQ-e2-iGd.text" = "4";
+
+/* Class = "UILabel"; text = "Importance: 2"; ObjectID = "eAk-9W-iA9"; */
+"eAk-9W-iA9.text" = "Importance: 2";
+
+/* Class = "UIButton"; normalTitle = "Contrary"; ObjectID = "ejc-An-scL"; */
+"ejc-An-scL.normalTitle" = "Против";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "gSO-BC-et6"; */
+"gSO-BC-et6.normalTitle" = "Готово";
+
+/* Class = "UILabel"; text = "Pros"; ObjectID = "gwC-Km-2Ms"; */
+"gwC-Km-2Ms.text" = "За";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "hBn-dg-AgB"; */
+"hBn-dg-AgB.text" = "3";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu?"; ObjectID = "hgP-WS-FDn"; */
+"hgP-WS-FDn.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu?";
+
+/* Class = "UILabel"; text = "Tap \"New decision\" to start👇🏻😀"; ObjectID = "mw7-hm-Zc9"; */
+"mw7-hm-Zc9.text" = "Нажмите \"Новое решение\" чтобы начать👇🏻😀";
+
+/* Class = "UIButton"; normalTitle = "New decision"; ObjectID = "n8E-Ai-kaY"; */
+"n8E-Ai-kaY.normalTitle" = "Новое решение";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "ofb-wY-2wE"; */
+"ofb-wY-2wE.text" = "3";
+
+/* Class = "UILabel"; text = "Importance: 2"; ObjectID = "onZ-HV-sYJ"; */
+"onZ-HV-sYJ.text" = "Importance: 2";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "qlm-zU-pWt"; */
+"qlm-zU-pWt.text" = "1";
+
+/* Class = "UILabel"; text = "Cons"; ObjectID = "sIp-It-a9A"; */
+"sIp-It-a9A.text" = "Против";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "yC7-4u-kUM"; */
+"yC7-4u-kUM.normalTitle" = "Далее";
